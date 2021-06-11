@@ -1,4 +1,13 @@
 # <img src="logo.png" alt="OpenZeppelin" height="40px">
+#
+#
+
+<h>NOTE!! THIS IS AN OLD VERSION OF OPENZEPPELIN CONTRACTS (V 2.5.1)! FOR THE LATEST VERION CHECK: 
+    https://github.com/OpenZeppelin/openzeppelin-contracts/releases </H>
+
+#
+#
+#
 
 [![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
 [![Build Status](https://circleci.com/gh/OpenZeppelin/openzeppelin-contracts.svg?style=shield)](https://circleci.com/gh/OpenZeppelin/openzeppelin-contracts)
